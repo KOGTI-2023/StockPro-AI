@@ -1,1 +1,1 @@
-# StockPro-AI---App
+# StockPro-AI
